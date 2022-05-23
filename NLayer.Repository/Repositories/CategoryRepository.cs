@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using NLayer.Core.Models;
 using NLayer.Core.Repositories;
-using System;
 using System.Linq;
 using System.Threading.Tasks;
 
